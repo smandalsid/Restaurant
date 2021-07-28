@@ -24,7 +24,7 @@ html{
 }
 
 .section1{
-    background: rgba(0, 0, 0, 0.6) url('/img/bg2.jpg');
+    background: rgba(0, 0, 0, 0.6) url('https://smandalsid.github.io/restaurant/img/bg2.jpg');
     background-size: cover;
     background-blend-mode: darken;
     min-height: 90vh;
@@ -43,7 +43,7 @@ html{
     height: 85px;
     position: sticky;
     top: 0px;
-    background: rgba(0, 0, 0, 0.9) url('/img/bg2.jpg');
+    background: rgba(0, 0, 0, 0.9) url('https://smandalsid.github.io/restaurant/img/bg2.jpg');
     background-size: contain;
     background-blend-mode: darken;
     z-index: 10;
